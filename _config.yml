@@ -59,6 +59,9 @@ copyright: "This site is made with by *GitHub Pages and Jekyll*."
 # Time zone
 timezone: null
 
+# Google analytics
+google_analytics: G-23H131M7TZ
+
 # Excerpt separator
 excerpt_separator: <!--more-->
 
