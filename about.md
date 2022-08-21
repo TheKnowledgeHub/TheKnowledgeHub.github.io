@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Hi, I'm Sonu Kumar.
 permalink: /about
 ---
 
-# Hi, I'm Sonu Kumar.
+
