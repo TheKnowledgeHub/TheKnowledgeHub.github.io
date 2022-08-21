@@ -54,7 +54,7 @@ footer_links:
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
-copyright: "This site is made with by *GitHub Pages and Jekyll*."
+copyright: "This site is made with *GitHub Pages and Jekyll*."
 
 # Time zone
 timezone: null
